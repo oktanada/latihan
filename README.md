@@ -1,0 +1,2 @@
+# latihan
+Belajar membuat repositori
