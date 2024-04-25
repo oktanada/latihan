@@ -3,8 +3,10 @@ ini adalah file baru pada branch1
 to do list
 1. swipe the floor
 2. washing chlothes
-3. buy some foods
+3. buy some snacks
 4. iron formal chlotes
 5. do math home work
 6. upload some photo to instagram
 7. edit the video
+8.lorem ipsum
+9.dolor sit amet
